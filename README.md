@@ -4,6 +4,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Original idea
+
+This idea 💡 come from [Basti Ui](https://twitter.com/BastiUi). Here is a video that explains it in French:
+
+[![Basti Ui idea](https://img.youtube.com/vi/lpqvRWkG0bc/0.jpg)](https://youtu.be/lpqvRWkG0bc?t=1160 'Basti Ui idea')
+
 ## Available Scripts
 
 In the project directory, you can run:
