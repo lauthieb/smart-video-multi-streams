@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smart-video-multi-streams/static/css/main.fb8d62d5.css",
+    "main.js": "/smart-video-multi-streams/static/js/main.5ab32b52.js",
+    "static/media/basti-camera.mp4": "/smart-video-multi-streams/static/media/basti-camera.2c86dc7e433d7f83ec14.mp4",
+    "static/media/basti-screen.mp4": "/smart-video-multi-streams/static/media/basti-screen.52884b876c143a7ae61e.mp4",
+    "index.html": "/smart-video-multi-streams/index.html",
+    "main.fb8d62d5.css.map": "/smart-video-multi-streams/static/css/main.fb8d62d5.css.map",
+    "main.5ab32b52.js.map": "/smart-video-multi-streams/static/js/main.5ab32b52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8d62d5.css",
+    "static/js/main.5ab32b52.js"
+  ]
+}
