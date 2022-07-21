@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This idea 💡 come from [Basti Ui](https://twitter.com/BastiUi). Here is a video that explains it in French:
 
-[![Basti Ui idea](https://img.youtube.com/vi/lpqvRWkG0bc/0.jpg)](https://youtu.be/lpqvRWkG0bc?t=1160 'Basti Ui idea')
+[![Basti Ui idea](https://user-images.githubusercontent.com/9600228/180323626-edfe2e9b-f8f9-4b20-b73f-f41343a3eb0c.png)](https://youtu.be/lpqvRWkG0bc?t=1160 'Basti Ui idea')
 
 ## Available Scripts
 
